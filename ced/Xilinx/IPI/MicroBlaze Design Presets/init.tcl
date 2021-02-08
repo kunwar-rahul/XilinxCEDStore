@@ -60,5 +60,3 @@ proc addGUILayout {DESIGNOBJ PROJECT_PARAM.BOARD_PART} {
 	 set Image.IMAGE_PATH "microblaze-real-time-processor.png"
   }
 }
-
-
